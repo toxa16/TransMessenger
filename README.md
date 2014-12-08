@@ -11,16 +11,16 @@ Screenshots
 ===========
 To use this app, first you have to sign up: leave your username, email, password and choose your language.
 
-![alt tag](https://)
+![alt tag](https://github.com/toxa16/TransMessenger/blob/master/screenshots/signup.PNG)
 
 After that you are able to see a list of app's users.
 
-![alt tag](https://)
+![alt tag](https://github.com/toxa16/TransMessenger/blob/master/screenshots/findusers.PNG)
 
 Choose one of the user, and you can start chatting with him using instant translator or just sending raw (original) messages.
 
-![alt tag](https://)
-![alt tag](https://)
+![alt tag](https://github.com/toxa16/TransMessenger/blob/master/screenshots/Antonio.PNG)
+![alt tag](https://github.com/toxa16/TransMessenger/blob/master/screenshots/Alejandro.PNG)
 
 APIs used
 =========
