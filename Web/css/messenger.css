@@ -1,0 +1,35 @@
+#message_view {
+	margin-left: 25px;
+}
+
+#message_view h1 span {
+    font-size: 16px;
+}
+
+#message_view ul {
+    list-style-type: none;
+}
+
+#messages {
+    height: 300px;
+    width: 400px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+#textToSend {
+    width: 400px;
+}
+
+.sent {
+    color: blue;
+    text-align: right;
+    margin-right: 5px;
+    font-size: 16px;
+}
+
+.received {
+    color: darkred;
+    margin-left: 5px;
+    font-size: 16px;
+}
